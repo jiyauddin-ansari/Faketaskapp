@@ -1,0 +1,103 @@
+{
+  "task": [
+    {
+      "id": "e366",
+      "task_title": "king1",
+      "task_desc": "king1",
+      "user_id": "68a1",
+      "created": "2-8-2025--(2:42:37)"
+    },
+    {
+      "id": "4397",
+      "task_title": "king2",
+      "task_desc": "king2",
+      "user_id": "68a1",
+      "created": "2-8-2025"
+    },
+    {
+      "id": "77b2",
+      "task_title": "jack1",
+      "task_desc": "jack1",
+      "user_id": "7967",
+      "created": "2-8-2025--(1:10:33)"
+    },
+    {
+      "id": "b293",
+      "task_title": "jack2",
+      "task_desc": "jack 2\n",
+      "user_id": "7967",
+      "created": "2-8-2025"
+    },
+    {
+      "id": "2b7b",
+      "task_title": "jack3",
+      "task_desc": "jack3\n",
+      "user_id": "7967",
+      "created": "2-8-2025"
+    },
+    {
+      "id": "1623",
+      "task_title": "Jahul1",
+      "task_desc": "Jahul1",
+      "user_id": "ed8e",
+      "created": "2-8-2025"
+    },
+    {
+      "id": "2edb",
+      "task_title": "Jahul2",
+      "task_desc": "Jahul2",
+      "user_id": "ed8e",
+      "created": "2-8-2025"
+    },
+    {
+      "id": "6f86",
+      "task_title": "king3",
+      "task_desc": "king3",
+      "user_id": "68a1",
+      "created": "2-8-2025"
+    },
+    {
+      "id": "cd48",
+      "task_title": "king4",
+      "task_desc": "king4",
+      "user_id": "68a1",
+      "created": "2-8-2025"
+    },
+    {
+      "id": "e7d8",
+      "task_title": "king5",
+      "task_desc": "king5",
+      "user_id": "68a1",
+      "created": "2-8-2025"
+    }
+  ],
+  "users": [
+    {
+      "name":"admin",
+      "email":"admin@gmail.com",
+      "pass1":"A1234abcd$",
+      "role":"admin"
+    },
+    {
+      "id": "ed8e",
+      "name": "jahul ansari",
+      "email": "jahul@gmail.com",
+      "pass1": "J1234abcd$",
+      "role":"regular"
+    },
+    {
+      "id": "68a1",
+      "name": "king ansari",
+      "email": "king@gmail.com",
+      "pass1": "K1234abcd$",
+      "role":"regular"
+    },
+    {
+      "id": "7967",
+      "name": "jack ansari",
+      "email": "jack@gmail.com",
+      "pass1": "J1234abcd$",
+      "role":"regular"
+    }
+  ]
+}
